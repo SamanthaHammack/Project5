@@ -1,6 +1,15 @@
-<head>
-  <link rel="stylesheet" href="mystyle.css">
-</head>
-<body>
-  
-  
+ body{background-color:skyblue;} 
+h1,h2,h3{ text-align:center;} 
+h1{color:green;} 
+h2{color:Purple;} 
+h3{color:Yellow;}
+#wrapper{width:80%;
+         margin:auto;
+         background-color:GoldenRod;
+         box-shadow:10px 30px grey;}
+div{width:90%; 
+    margin:auto;}
+<stlye>
+      { border:5px solid deeppink;
+      border-radius: 10%;}
+    </style>
