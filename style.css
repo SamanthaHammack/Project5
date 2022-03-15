@@ -9,7 +9,22 @@ h3{color:Yellow;}
          box-shadow:10px 30px grey;}
 div{width:90%; 
     margin:auto;}
-<stlye>
-      { border:5px solid deeppink;
+{ border:5px solid deeppink;
       border-radius: 10%;}
-    </style>
+  ul {
+     list-style-type: none;
+     margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cornflowerblue;
+}
+li {
+   float: left;
+}
+li a {
+   display: block;
+   color: greenyellow;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
